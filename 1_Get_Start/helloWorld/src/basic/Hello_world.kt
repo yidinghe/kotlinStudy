@@ -1,3 +1,5 @@
+package basic
+
 /**
  * Created by yidinghe on 8/31/16.
  */
@@ -61,7 +63,7 @@ fun main(args: Array<String>) {
 
     //Char
     val char: Char = '9'
-    println("decimalDigitValue: ${decimalDigitValue(char)}")
+    println("basic.decimalDigitValue: ${decimalDigitValue(char)}")
 
     //Array
 
