@@ -11,6 +11,22 @@ fun main(args: Array<String>) {
 
     val strings: List<String> = listOf("aaa", "b", "cc", "ccc")
     println(strings.filter(compose(::isOdd, ::length)))
+
+
+    val b = numbers.any { it % 2 == 0 }
+    println(b)
+}
+
+
+
+data class MyDate(val year: Int, val month: Int, val dayOfMonth: Int) : Comparable<MyDate> {
+    override fun compareTo(other: MyDate): Int{
+        when {
+            year != other.year -> return year - other.year
+            month != other.month -> return month - other.month
+            else -> return dayOfMonth - other.dayOfMonth
+        }
+    }
 }
 
 fun isOdd(x: Int) = x % 2 != 0

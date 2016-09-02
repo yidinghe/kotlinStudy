@@ -101,7 +101,6 @@ fun main(args: Array<String>) {
     if (xInt in 0..yInt)
         println("xInt is in yInt")
 
-
     val stringList: ArrayList<String> = arrayListOf("aaa", "bbb", "ccc");
 
     if ("aaa" in stringList)
@@ -110,6 +109,8 @@ fun main(args: Array<String>) {
     if (xInt !in 0..stringList.size - 1)
         println("Out: stringList only has ${stringList.size} elements, xInt is $xInt")
 
+    for (i in 4 downTo 1) print(i)
+    for (i in 4 downTo 1 step 2) print(i)
     //Use When
 
 
