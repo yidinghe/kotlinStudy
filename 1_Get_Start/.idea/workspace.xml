@@ -2,44 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16886aa5-8d9d-4e43-8538-65a28c2bb4dd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/01_HelloWorld.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/02_Functions.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/03_EasierStringFormattingStringTemplates.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/04_EasierStringFormattingStringTemplates1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/05_Person.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/06_Properties1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/07_CustomAccessors.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/08_colors.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/09_DeclaringEnumClasses1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/10_UsingWhenForDealingWithEnumClasses.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/11_UsingWhenForDealingWithEnumClasses1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/12_UsingWhenForDealingWithEnumClasses2.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/13_WhenWithArbitraryObjects.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/14_WhenWithoutArgument.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/15_Expr.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/16_SmartCastsCombiningTypeChecksAndCasts1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/17_RefactoringReplacingIfWithWhen.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/18_RefactoringReplacingIfWithWhen1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/20_IteratingOverNumbersRangesAndProgressions.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/21_IteratingOverMaps.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/22_InCheck.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/23_InCheck1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/24_TryCatchAndFinally.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/25_TryAsExpression.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/26_TryAsExpression1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/01_CreatingCollectionsInKotlin.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/02_CreatingCollectionsInKotlin1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/03_MakingFunctionsEasierToCall.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/04_JoinToString.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/05_AddingMethodsToOtherPeoplesClassesExtensionFunctionsAndProperties.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/06_JoinToStringFinal.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/07_UtilityFunctionsAsExtensions1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/08_UtilityFunctionsAsExtensions2.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/09_View.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/10_NoOverridingForExtensionFunctions1.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/11_NoOverridingForExtensionFunctions2.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/12_ExtensionProperties.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/helloWorld/META-INF/helloWorld.kotlin_module" afterPath="$PROJECT_DIR$/out/production/helloWorld/META-INF/helloWorld.kotlin_module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/13_VarargsFunctionsAcceptingArbitraryNumberOfArguments.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/14_SplittingStrings.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/15_SplittingStrings1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/16_RegularExpressionsAndTripleQuotedStrings.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/17_RegularExpressionsAndTripleQuotedStrings1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/18_MultilineTriplequotedStrings.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/19_MakingYourCodeTidyLocalFunctionsAndExtensions.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/20_MakingYourCodeTidyLocalFunctionsAndExtensions1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/21_MakingYourCodeTidyLocalFunctionsAndExtensions2.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/22_MakingYourCodeTidyLocalFunctionsAndExtensions3.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Hello_World.iws" />
@@ -101,11 +73,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="25_TryAsExpression.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="25_TryAsExpression.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/25_TryAsExpression.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14_SplittingStrings.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/14_SplittingStrings.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15_SplittingStrings1.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/15_SplittingStrings1.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -160,6 +152,7 @@
         <option value="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch02/21_IteratingOverMaps.kt" />
         <option value="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/01_CreatingCollectionsInKotlin.kt" />
         <option value="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/02_CreatingCollectionsInKotlin1.kt" />
+        <option value="$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/15_SplittingStrings1.kt" />
       </list>
     </option>
   </component>
@@ -310,20 +303,7 @@
       <recent name="$PROJECT_DIR$/helloWorld/src/basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.kotlinaction.ch03._02_CreatingCollectionsInKotlin1Kt">
-    <configuration default="false" name="ch02.IteratingOverMaps._21_IteratingOverMapsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ch02.IteratingOverMaps._21_IteratingOverMapsKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="helloWorld" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Kotlin.ch03.SplittingStrings1._15_SplittingStrings1Kt">
     <configuration default="false" name="ch02.TryCatchAndFinally._24_TryCatchAndFinallyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ch02.TryCatchAndFinally._24_TryCatchAndFinallyKt" />
@@ -366,6 +346,19 @@
     <configuration default="false" name="kotlinaction.ch03._02_CreatingCollectionsInKotlin1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="kotlinaction.ch03._02_CreatingCollectionsInKotlin1Kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="helloWorld" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ch03.SplittingStrings1._15_SplittingStrings1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ch03.SplittingStrings1._15_SplittingStrings1Kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -621,19 +614,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.ch02.IteratingOverMaps._21_IteratingOverMapsKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.ch02.TryCatchAndFinally._24_TryCatchAndFinallyKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.ch02.TryAsExpression._25_TryAsExpressionKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.kotlinaction.ch03._01_CreatingCollectionsInKotlinKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.kotlinaction.ch03._02_CreatingCollectionsInKotlin1Kt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.ch02.TryCatchAndFinally._24_TryCatchAndFinallyKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.ch02.TryAsExpression._25_TryAsExpressionKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.kotlinaction.ch03._01_CreatingCollectionsInKotlinKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.kotlinaction.ch03._02_CreatingCollectionsInKotlin1Kt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.ch03.SplittingStrings1._15_SplittingStrings1Kt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.kotlinaction.ch03._02_CreatingCollectionsInKotlin1Kt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.kotlinaction.ch03._01_CreatingCollectionsInKotlinKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.ch02.TryAsExpression._25_TryAsExpressionKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.ch02.TryCatchAndFinally._24_TryCatchAndFinallyKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.ch02.IteratingOverMaps._21_IteratingOverMapsKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.ch03.SplittingStrings1._15_SplittingStrings1Kt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.kotlinaction.ch03._02_CreatingCollectionsInKotlin1Kt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.kotlinaction.ch03._01_CreatingCollectionsInKotlinKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.ch02.TryAsExpression._25_TryAsExpressionKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.ch02.TryCatchAndFinally._24_TryCatchAndFinallyKt" />
       </list>
     </recent_temporary>
   </component>
@@ -654,8 +647,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="714" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1280" height="714" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -669,7 +662,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26328126" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26328126" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -705,22 +698,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/helloWorld/src/collections/Shop.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helloWorld/src/collections/CollectionsFunctions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/helloWorld/src/collections/TestShop.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="740">
@@ -1109,6 +1086,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/14_SplittingStrings.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloWorld/src/kotlinaction/ch03/15_SplittingStrings1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
           <folding />
         </state>
       </provider>
