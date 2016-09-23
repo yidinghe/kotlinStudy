@@ -9,7 +9,7 @@ fun saveUser(user: User) {
                  fieldName: String) {
         if (value.isEmpty()) {
             throw IllegalArgumentException(
-                "Cannot save user ${user.id}: $fieldName is empty")
+                    "Cannot save user ${user.id}: $fieldName is empty")
         }
     }
 
@@ -17,4 +17,36 @@ fun saveUser(user: User) {
     validate(user, user.address, "Address")
 
     // Save user to the database
+}
+
+
+fun main(args: Array<String>) {
+    val person = Person(1, "", "")
+    savePerson(person)
+    person.validatePerson2()
+}
+
+data class Person(val id: Int, val name: String, val address: String)
+
+fun savePerson(person: Person) {
+
+    fun validatePerson(value: String, fieldName: String) {
+        if (value.isEmpty()) {
+            throw IllegalArgumentException("cannot save person ${person.id}, $fieldName is Empty")
+        }
+    }
+
+    validatePerson(person.name, "name")
+    validatePerson(person.address, "address")
+}
+
+fun Person.validatePerson2() = {
+
+    fun validate(value: String, fieldName: String){
+        if (value.isNullOrEmpty())
+            throw IllegalArgumentException("cannot save person ${this.id}, $fieldName is Empty")
+    }
+
+    validate(this.name, "name")
+    validate(this.address, "address")
 }
